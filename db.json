@@ -1,73 +1,52 @@
 {
   "projects": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "id": "z0xnx1p1hlqbhqy43",
+      "title": "Ironhack",
+      "description": "Complete the Web Dev bootcamp"
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
+      "id": "36fyo3r2hlqd3jlwe",
+      "title": "Magic Title",
+      "description": "Hello from the other side!"
     }
   ],
   "tasks": [
     {
-      "id": 1,
-      "projectId": 1,
-      "title": "Design Landing Page",
-      "description": "Create a visually appealing landing page for the website.",
-      "assignee": "Mary Davis",
-      "status": "Completed",
-      "priority": "High",
-      "createdDate": "2023-09-15",
-      "dueDate": "2023-09-30"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "title": "Develop User Registration",
-      "description": "Implement user registration functionality with email verification.",
-      "assignee": "Jane Smith",
-      "status": "Completed",
+      "id": "5oay7fzexlqbhrusp",
+      "projectId": "z0xnx1p1hlqbhqy43",
+      "title": "Learn Front-end Development",
+      "description": "",
+      "points": "15",
+      "assignee": "Michael",
+      "status": "To-Do",
       "priority": "Medium",
-      "createdDate": "2023-09-16",
-      "dueDate": "2023-10-10"
+      "createdDate": "2023-12-18",
+      "dueDate": "2023-12-28"
     },
     {
-      "id": 3,
-      "projectId": 1,
-      "title": "Bug Fix: Login Issue",
-      "description": "Investigate and fix the login problem reported by users.",
-      "assignee": "Mark Johnson",
-      "status": "Completed",
+      "id": "h25eqdc93lqci81tl",
+      "projectId": "z0xnx1p1hlqbhqy43",
+      "title": "Turn on Computer",
+      "description": "Press the power button",
+      "assignee": "Michael",
+      "status": "To-Do",
       "priority": "High",
-      "createdDate": "2023-09-17",
-      "dueDate": "2023-09-25"
+      "createdDate": "2023-12-19",
+      "dueDate": "2023-12-20",
+      "points": "5"
     },
     {
-      "id": 4,
-      "projectId": 2,
-      "title": "Release Version 1.0",
-      "description": "Prepare for the release of the first version of the application.",
-      "assignee": "Sarah Brown",
-      "status": "Completed",
+      "id": "4tmrlay4olqd3u61j",
+      "projectId": "36fyo3r2hlqd3jlwe",
+      "title": "You must do this random task",
+      "description": "Hallelujah!",
+      "points": "25",
+      "assignee": "Mike Wazowski",
+      "status": "To-Do",
       "priority": "High",
-      "createdDate": "2023-09-18",
-      "dueDate": "2023-10-05"
-    },
-    {
-      "id": 5,
-      "projectId": 2,
-      "title": "Update Documentation",
-      "description": "Update user documentation with the latest features and changes.",
-      "assignee": "David Wilson",
-      "status": "Completed",
-      "priority": "Low",
-      "createdDate": "2023-09-19",
-      "dueDate": "2023-09-30"
+      "createdDate": "2023-12-20",
+      "dueDate": "2023-12-21"
     }
   ]
 }
