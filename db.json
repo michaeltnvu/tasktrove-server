@@ -2,13 +2,33 @@
   "projects": [
     {
       "id": "z0xnx1p1hlqbhqy43",
-      "title": "Ironhack",
+      "title": "Ironhack Miami, FL",
       "description": "Complete the Web Dev bootcamp"
     },
     {
       "id": "36fyo3r2hlqd3jlwe",
       "title": "Magic Title",
       "description": "Hello from the other side!"
+    },
+    {
+      "id": "f0xkwtzt8lqffed8t",
+      "title": "Stop",
+      "description": "in the name of love!"
+    },
+    {
+      "id": "qok8t5ri3lqffeurp",
+      "title": "Move across the country",
+      "description": "California to Florida"
+    },
+    {
+      "id": "gxmfn1ss6lqffi5s9",
+      "title": "Build React app with full CRUD",
+      "description": "Must connect to external REST API or mock backend JSON server"
+    },
+    {
+      "id": "2dc0p90a9lqffit6u",
+      "title": "Obtain Barber License",
+      "description": "Get rich or die trying"
     }
   ],
   "tasks": [
@@ -47,6 +67,42 @@
       "priority": "High",
       "createdDate": "2023-12-20",
       "dueDate": "2023-12-21"
+    },
+    {
+      "id": "7q6h3hrhdlqffjr5o",
+      "projectId": "z0xnx1p1hlqbhqy43",
+      "title": "Get milk",
+      "description": "RUN TO THE NEAREST 7-11",
+      "points": "5",
+      "assignee": "Me",
+      "status": "To-Do",
+      "priority": "High",
+      "createdDate": "2023-12-21",
+      "dueDate": "2023-12-21"
+    },
+    {
+      "id": "zjjfb5x65lqffks8h",
+      "projectId": "z0xnx1p1hlqbhqy43",
+      "title": "Evacuate",
+      "description": "\"GET TO DA CHOPPA\" - Arnold S.",
+      "points": "15",
+      "assignee": "Michael",
+      "status": "Completed",
+      "priority": "Low",
+      "createdDate": "2023-12-21",
+      "dueDate": "2023-12-22"
+    },
+    {
+      "id": "1uk0fxe4vlqffnj7k",
+      "projectId": "z0xnx1p1hlqbhqy43",
+      "title": "Get to the ski resort",
+      "description": "There will be a blizzard incoming!",
+      "points": "15",
+      "assignee": "DD",
+      "status": "In-Progress",
+      "priority": "High",
+      "createdDate": "2023-12-21",
+      "dueDate": "2023-12-30"
     }
   ]
 }
